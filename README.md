@@ -5,6 +5,7 @@ This project is created to showcase the immense capabilities of AI by creating a
 Make sure you don't misuse the code to spread false information.
 
 AI Biden giving response response to the folloowing questions:
+
 What is your approach to handling the conflict in Ukraine?
 
 https://github.com/user-attachments/assets/ae90cb0e-c16b-4d63-ab81-465a64654533
